@@ -1,7 +1,5 @@
 # AI-Algorithms
 
-readme_content = """
-
 ## Key Concepts:
 - **Objective**: Implement various AI search algorithms to find the best path from a start node (S) to a goal node (G).
 - **Customization**: The graph and heuristic values are user-defined and can be adjusted for any specific problem.
